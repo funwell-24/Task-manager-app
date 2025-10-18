@@ -29,3 +29,14 @@ Build for production
 
 bash
 npm run build
+
+# Task Manager App
+
+## 🚀 Live Demo
+[View Live Application](https://funwell-24.github.io/Task-manager-app/)
+
+## ✨ Features
+- Task Management
+- Dark/Light Theme
+- API Integration
+- Responsive Design
